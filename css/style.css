@@ -38,6 +38,7 @@ img{
     text-align: left;
     padding:15px;
     font-size: 16px;
+    
 }
 h2{
  color:rgb(16, 116, 149);
@@ -60,7 +61,6 @@ a{
 a:hover{
     color:black;
 }
-
-h5 h3{
-  text-align: center;
+.innnerSection1 {
+   color:white;
 }
